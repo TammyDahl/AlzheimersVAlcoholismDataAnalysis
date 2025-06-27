@@ -1,1 +1,1 @@
-# AlzheimersVAlcoholismDataAnalysis
+# Alzheimers VS Alcoholism Data Analysis
