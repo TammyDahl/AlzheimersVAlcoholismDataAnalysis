@@ -1,10 +1,9 @@
 # Alcohol Consumption and Cognitive Decline
-Data Analysis Project | CS 577 – Data Science Principles and Techniques
+Solo Project | SDSU CS 577 – Data Science Principles & Techniques
 
 ## Overview
-This project explores alcohol consumption as a risk factor in the progression of Alzheimer’s and dementia. It was completed for my Data Science course at San Diego State University and combines exploratory data analysis, statistical testing, and machine learning to investigate the relationship between drinking behavior and cognitive health.
 
-This project highlights my ability to work with real-world health data, ask meaningful questions, and build data-driven narratives—all of which translate directly into the kind of analytical thinking required in data analyst and product analyst roles.
+This project investigates how alcohol consumption levels affect cognitive decline, using datasets related to Alzheimer’s and dementia. I conducted exploratory data analysis, hypothesis testing, and built a random forest classifier to predict dementia progression. Results showed a strong correlation between heavy alcohol use and dementia risk, while moderate use had mixed effects. The project highlights my ability to work with real-world healthcare data, apply statistical reasoning, and communicate insights visually and through technical writing.
 
 ## Research Question
 Does alcohol consumption significantly affect cognitive decline and dementia progression, and if so, how do these effects vary by age and consumption level?
