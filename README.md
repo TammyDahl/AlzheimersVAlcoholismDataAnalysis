@@ -27,9 +27,9 @@ Does alcohol consumption significantly affect cognitive decline and dementia pro
 - Data visualizations (e.g., correlation heatmaps, MMSE boxplots, age distribution plots) helped clarify the influence of alcohol and age on cognitive performance.
 
 ## Demo & Files
-[data-analysis-of-alcohol-consumption.ipynb](https://github.com/TammyDahl/AlzheimersVAlcoholismDataAnalysis/blob/main/data-analysis-of-alcohol-consumption-as-a-risk-fac.ipynb) — Full Jupyter notebook with code, EDA, model, and conclusions
+[Full Jupyter notebook with code, EDA, model, and conclusions](notebooks/data-analysis-of-alcohol-consumption-as-a-risk-fac.ipynb) — Full Jupyter notebook with code, EDA, model, and conclusions
 
-[AlzheimersVAlcoholism.pdf](https://github.com/TammyDahl/AlzheimersVAlcoholismDataAnalysis/blob/main/AlzheimersVAlcoholism.pdf) — Final project poster presentation
+[Final project poster presentation of findings](poster/AlzheimersVAlcoholism.pdf) — Final project poster presentation
 
 ## Why It’s In My Portfolio
 This project demonstrates:
