@@ -1,5 +1,5 @@
 # Alcohol Consumption and Cognitive Decline
-Solo Project | SDSU CS 577 – Data Science Principles & Techniques
+_Solo Project | SDSU CS 577 – Data Science Principles & Techniques_
 
 ## Overview
 
